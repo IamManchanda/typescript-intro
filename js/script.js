@@ -85,3 +85,4 @@ canAlsoBeNull = null;
 var canThisBeAny = null;
 canThisBeAny = 12;
 console.log(canThisBeAny);
+//# sourceMappingURL=script.js.map
