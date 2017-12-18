@@ -1,0 +1,17 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "description": "Typescript intro",
+  "main": "index.js",
+  "author": "Harry Manchanda",
+  "license": "MIT",
+  "devDependencies": {
+    "lite-server": "^2.3.0",
+    "tslint": "^5.8.0",
+    "tslint-config-airbnb": "^5.4.2",
+    "typescript": "^2.6.2"
+  },
+  "scripts": {
+    "dev": "lite-server"
+  }
+}
